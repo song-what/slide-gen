@@ -12,7 +12,7 @@ technologies
 - AWT
 
 <dl>
-<pre style="font: 10px/5px monospace;">
+<pre style="font: 10px/5px monospace;color: red;">
 
                                                                                                     ;;;;;
                                                                                           ;;;;;;;;;;;;;
